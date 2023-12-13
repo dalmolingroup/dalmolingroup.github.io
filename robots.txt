@@ -1,0 +1,1 @@
+Sitemap: /test-lab-website/sitemap.xml
