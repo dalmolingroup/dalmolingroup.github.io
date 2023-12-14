@@ -1,6 +1,6 @@
 ---
 name: Fábio Ferreira Silva
-image: images/image.jpg
+image: images/team/fabio_silva.jpg
 description: MSc Student
 role: msc
 links:
