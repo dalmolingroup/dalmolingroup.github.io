@@ -1,6 +1,6 @@
 ---
 name: Dante von Zuben
-image: images/image.jpg
+image: images/team/dante_von_zuben.jpg
 description: Undergrad Student
 role: undergrad
 links:
