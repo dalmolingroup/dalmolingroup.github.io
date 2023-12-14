@@ -28,7 +28,7 @@ defaults:
           layout: member
     # markdown files in /_posts
     - scope:
-          type: "posts"
+          type: "lines"
       values:
           layout: post
 
