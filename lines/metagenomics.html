@@ -39,22 +39,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Some name | Dalmolin Systems Biology Group</title>
+<title>Metagenomics analyses | Dalmolin Systems Biology Group</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Some name">
-<meta name="description" content="Some description">
+<meta name="title" content="Metagenomics analyses">
+<meta name="description" content="Diversity analysis, functional annotation and MAGs">
 
-<meta property="og:title" content="Some name">
+<meta property="og:title" content="Metagenomics analyses">
 <meta property="og:site_title" content="Dalmolin Systems Biology Group">
-<meta property="og:description" content="Some description">
+<meta property="og:description" content="Diversity analysis, functional annotation and MAGs">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Some name">
-<meta property="twitter:description" content="Some description">
+<meta property="twitter:title" content="Metagenomics analyses">
+<meta property="twitter:description" content="Diversity analysis, functional annotation and MAGs">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Some name",
-    "description": "Some description",
-    "headline": "Some name",
+    "name": "Metagenomics analyses",
+    "description": "Diversity analysis, functional annotation and MAGs",
+    "headline": "Metagenomics analyses",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -381,7 +381,7 @@
   
 
   <section class="background" data-size="page">
-    <h1 class="center">Some name</h1>
+    <h1 class="center">Metagenomics analyses</h1>
   </section>
 
   
@@ -396,7 +396,47 @@
 -->
 
 
-<p>Some Markdown content</p>
+<h1 id="where-do-we-start">Where do we start?</h1>
+
+<p>Metagenomics data, or data containing the full genetic content of an environmental sample, constitutes one of our current research topics at the Dalmolin Group. Metagenomics data provides a great potential for studying the diversity and functional activity of complex microbial environments.</p>
+
+<p>Our studies of metagenomics data began with the development of our in-house pipeline for processing these data, <a href="https://github.com/dalmolingroup/medusa">MEDUSA</a> (<a href="https://doi.org/10.3389/fgene.2022.814437">Morais et al, 2022</a>). With MEDUSA, we aimed to build a sensitive, flexible and reproducible pipeline that produces taxonomic classification and functional annotation of metagenomics reads. Below, you can see a diagram detailing the different steps of the original MEDUSA pipeline. We later reimplemented MEDUSA in another workflow orchestration language, Nextflow, this time being called <a href="https://github.com/dalmolingroup/euryale">EURYALE</a>.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="From Morais et al, 2022. The MEDUSA analysis workflow. Squares highlight the protocol steps, and third-party tools are depicted as cyan capsules. The python icon represents the tool implemented for the functional annotation.">
+    <img src="/images/lines/metagenomics_1.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="From Morais et al, 2022. The MEDUSA analysis workflow. Squares highlight the protocol steps, and third-party tools are depicted as cyan capsules. The python icon represents the tool implemented for the functional annotation." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      From Morais et al, 2022. The MEDUSA analysis workflow. Squares highlight the protocol steps, and third-party tools are depicted as cyan capsules. The python icon represents the tool implemented for the functional annotation.
+
+    </figcaption>
+  
+</figure>
+
+<h1 id="current-work-and-future-directions">Current work and future directions</h1>
+
+<p>Some of our work exploring metagenomics data is highlighted by “Metagenomic Analyses Reveal the Influence of Depth Layers on Marine Biodiversity on Tropical and Subtropical Regions” (<a href="https://doi.org/10.3390/microorganisms11071668">Santiago et al, 2023</a>). In this work, using MEDUSA, we observed differences in diversity between three ocean layers in the Tropical and Subtropical regions and also noted different functional annotations between these layers.</p>
+
+<p>And now, with MEDUSA/EURYALE and all of the software in the metagenomics ecosystem, we aim to keep exploring metagenomics data, with a focus on functional analysis.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="From Santiago et al, 2023. Diversity and abundance distribution by depth layer in the tropical and subtropical regions.">
+    <img src="/images/lines/metagenomics_2.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="From Santiago et al, 2023. Diversity and abundance distribution by depth layer in the tropical and subtropical regions." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      From Santiago et al, 2023. Diversity and abundance distribution by depth layer in the tropical and subtropical regions.
+
+    </figcaption>
+  
+</figure>
   </section>
 
 
