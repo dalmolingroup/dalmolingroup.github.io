@@ -21,11 +21,11 @@
 }
 
 :root {
-  --title: "Open Sans", sans-serif;
-  --heading: "Open Sans", sans-serif;
-  --body: "Rethink Sans", sans-serif;
+  --title: "Barlow", sans-serif;
+  --heading: "Barlow", sans-serif;
+  --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
-  --medium: 2rem;
+  --medium: 1rem;
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
