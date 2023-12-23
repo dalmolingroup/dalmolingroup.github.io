@@ -9,7 +9,7 @@ The development of sequencing technologies in the past two decades allowed the s
 
 {%
   include figure.html
-  caption="From the geneplast vignette, we show the evolutionary rooting scenarios for the same toy examples depicted in Figure 1. (a, b) Red circles indicate the evolutionary roots that best explain the observed orthologs in the species tree."
+  caption="From the geneplast vignette, we show the evolutionary rooting scenarios . Red circles indicate the evolutionary roots that best explain the observed orthologs in the species tree."
   image="images/lines/evo1.jpg"
 %}
 
@@ -19,7 +19,7 @@ In [Viscardi et al. 2020](https://doi.org/10.1093/molbev/msaa252) paper, we aime
 
 {%
   include figure.html
-  caption="From Viscardi et al, 2020. Human neurotransmission PPI network. Nodes represent proteins, whereas edges represent the interactions among them. Nodes enclosed by dashed lines either did not connect to the largest connected component (black dashed lines) or did not connect at all (gray dashed lines). Node size is proportional to the number of neuronal pathways it participates (i.e., GABAergic, cholinergic, serotonergic, glutamatergic, and dopaminergic). Node color represents the pathway(s) a node belongs to. The UpSet diagram depicts how nodes are distributed among pathways (e.g., 31 genes take part in all five pathways). Colored bars at the bottom show absolute node count on each pathway (e.g., the dopaminergic pathway comprises 131 genes, 56 of which take part in no other pathways). Linked dots indicate node overlap among pathways, whereas horizontal bars indicate overlap sizes."
+  caption="From Viscardi et al, 2020. Human neurotransmission protein-protein interaction network. Nodes represent proteins, whereas edges represent the interactions among them. Node size is proportional to the number of neuronal pathways it participates (i.e., GABAergic, cholinergic, serotonergic, glutamatergic, and dopaminergic). The UpSet diagram depicts how nodes are distributed among pathways (e.g., 31 genes take part in all five pathways)."
   image="images/lines/evo2.jpg"
 %}
 
