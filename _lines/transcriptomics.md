@@ -1,9 +1,8 @@
 ---
-title: Some name
-tags:
-    - tag A
-    - tag B
-description: Some description
+title: Transcriptional analyses
+subtitle: Microarray, Bulk RNA-seq and scRNA-seq
+image: images/lines/transcriptomics_line.jpg
+link: lines/transcriptomics
 ---
 
 Some Markdown content
