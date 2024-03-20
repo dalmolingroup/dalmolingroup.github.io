@@ -1,7 +1,7 @@
 ---
 name: Vítor Saldanha
 image: images/team/vitor_saldanha.jpg
-description: Undergrad student
+description: Undergrad Student
 role: undergrad
 links:
     github: vitor-saldanha
