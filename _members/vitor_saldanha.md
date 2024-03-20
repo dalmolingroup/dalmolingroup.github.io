@@ -1,9 +1,8 @@
 ---
 name: Vítor Saldanha
 image: images/team/vitor_saldanha.jpg
-description: BSc in Biomedical Science
+description: Undergrad student
 role: undergrad
-group: alum
 links:
     github: vitor-saldanha
     lattes: "2266478696390183"
