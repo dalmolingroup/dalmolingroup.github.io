@@ -3,4 +3,10 @@
   transition: none 0.2s;
 }
 
+@media (max-width: 600px) {
+  #Layer_1 {
+    max-width: 350px;
+  }
+}
+
 /*# sourceMappingURL=all.css.map */
