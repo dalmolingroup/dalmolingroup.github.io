@@ -786,3 +786,18 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1089/omi.2024.0004
+  title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
+    Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
+  authors:
+  - Karoline dos Santos Rodrigues
+  - Daniel Sturza Lucas Caetano
+  - "Jo\xE3o Vitor Cavalcante"
+  - Rodrigo Dalmolin
+  - "Patr\xEDcia K. Ziegelmann"
+  - Michael Andrades
+  publisher: 'OMICS: A Journal of Integrative Biology'
+  date: '2024-03-01'
+  link: https://doi.org/gtw5m3
+  plugin: sources.py
+  file: sources.yaml
