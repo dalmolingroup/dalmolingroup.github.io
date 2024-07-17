@@ -1,7 +1,7 @@
 ---
 name: Iara Dantas de Souza
 image: images/team/iara_de_souza.jpg
-description: PhD in Bioinformatics
+description: Postdoctoral Researcher
 role: postdoc
 links:
     github: iaradsouza1
