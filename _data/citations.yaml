@@ -407,8 +407,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2017/2787308
-  title: Antioxidant and Anti-Inflammatory Properties of<i>Anacardium occidentale</i>Leaf
-    Extract
+  title: "Antioxidant and Anti\u2010Inflammatory Properties of <i>Anacardium occidentale</i>\
+    \ Leaf Extract"
   authors:
   - "Nat\xE1lia Cabral Souza"
   - Juliana Medeiros de Oliveira
