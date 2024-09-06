@@ -1,8 +1,8 @@
 ---
 name: Gleison Medeiros
 image: images/team/gleison_medeiros.jpg
-description: Undergrad Student
-role: undergrad
+description: MSc Student
+role: msc
 links:
     github: gleisonm
     orcid: 0009-0003-4438-2135
