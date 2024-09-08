@@ -45,7 +45,7 @@
 
 - title: BulkRNA
   subtitle: An analysis pipeline for pre-processing, alignment and quantification of bulk RNA-Seq data.
-  image: images/photo.jpg
+  image: images/tools/BulkRNA_logo.png
   link: https://dalmolingroup.github.io/bulkrna/
   description: Dalmolin Group's workflow for pre-processing, alignment and quantification of bulk RNA-seq data.
   repo: dalmolingroup/bulkrna
