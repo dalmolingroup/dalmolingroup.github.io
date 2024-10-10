@@ -9,4 +9,4 @@ aliases:
     - Jacinta Novais
 ---
 
-Possui ensino-medio-segundo-graupelo Êxito Colégio(2018). Tem experiência na área de Biotecnologia, com ênfase em Biotecnologia em Saúde Humana e Animal.
+Biomedicine student at the Federal University of Rio Grande do Norte (UFRN).
