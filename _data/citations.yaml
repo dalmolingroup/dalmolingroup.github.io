@@ -583,13 +583,17 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.2741/s352
-  title: Transcriptomic analysis reveals pH-responsive antioxidant gene networks
+- id: pmid:22652892
+  title: Transcriptomic analysis reveals pH-responsive antioxidant gene networks.
   authors:
   - Rodrigo Juliani Siqueira Dalmolin
-  publisher: Frontiers in Bioscience
-  date: '2012-01-01'
-  link: https://doi.org/f99395
+  - Daniel Pens Gelain
+  - Fabio Klamt
+  - Mauro Antonio Alves Castro
+  - Jose Claudio Fonseca Moreira
+  publisher: Frontiers in bioscience (Scholar edition)
+  date: '2012-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22652892
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml

@@ -1,14 +1,14 @@
 ---
 title: Team
 nav:
-    order: 3
-    tooltip: About our team
+  order: 3
+  tooltip: About our team
 redirect_from:
-    - /lab-members
-    - /alums
-    - /mascots
-    - /staff
-    - /trainees
+  - /lab-members
+  - /alums
+  - /mascots
+  - /staff
+  - /trainees
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
