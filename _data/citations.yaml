@@ -16,6 +16,22 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1089/omi.2024.0004
+  title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
+    Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
+  authors:
+  - Karoline dos Santos Rodrigues
+  - Daniel Sturza Lucas Caetano
+  - "Jo\xE3o Vitor Cavalcante"
+  - Rodrigo Dalmolin
+  - "Patr\xEDcia K. Ziegelmann"
+  - Michael Andrades
+  publisher: 'OMICS: A Journal of Integrative Biology'
+  date: '2024-03-01'
+  link: https://doi.org/gtw5m3
+  orcid: 0000-0002-1688-6155
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/msae019
   title: '<i>Bridge</i>: A New Algorithm for Rooting Orthologous Genes in Large-Scale
     Evolutionary Analyses'
@@ -31,6 +47,24 @@
   publisher: Molecular Biology and Evolution
   date: '2024-02-01'
   link: https://doi.org/gtgw4v
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUROSCIENCE.2024.09.012
+  title: Sex-specific gene expression differences in the prefrontal cortex of major
+    depressive disorder individuals
+  authors:
+  - Iara D. de Souza
+  - "V\xEDtor G. S. Fernandes"
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Ana Carolina M. F. Coelho
+  - Diego A. A. Morais
+  - Otavio Cabral-Marques
+  - Matheus A. B. Pasquali
+  - Rodrigo J. S. Dalmolin
+  publisher: Neuroscience
+  date: '2024-11-01'
+  link: https://doi.org/g6jvfc
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
@@ -790,21 +824,6 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1089/omi.2024.0004
-  title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
-    Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
-  authors:
-  - Karoline dos Santos Rodrigues
-  - Daniel Sturza Lucas Caetano
-  - "Jo\xE3o Vitor Cavalcante"
-  - Rodrigo Dalmolin
-  - "Patr\xEDcia K. Ziegelmann"
-  - Michael Andrades
-  publisher: 'OMICS: A Journal of Integrative Biology'
-  date: '2024-03-01'
-  link: https://doi.org/gtw5m3
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.neuroscience.2024.09.012
   title: Sex-specific gene expression differences in the prefrontal cortex of major
     depressive disorder individuals
