@@ -2,7 +2,9 @@
 name: Rafaella Ferraz
 image: images/team/rafaella_ferraz.jpg
 description: Visiting PhD Student
+description: PhD in Genetics and Molecular Biology
 role: phd
+group: alum
 links:
     github: RafaellaFerraz
     lattes: "2370957595755856"

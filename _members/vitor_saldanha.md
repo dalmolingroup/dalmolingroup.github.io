@@ -1,14 +1,14 @@
 ---
 name: Vítor Saldanha
 image: images/team/vitor_saldanha.jpg
-description: Undergrad Student
+description: BSc in Biomedical Science
 role: undergrad
 links:
-    github: vitor-saldanha
-    lattes: "2266478696390183"
+  github: vitor-saldanha
+  lattes: "2266478696390183"
 aliases:
-    - Vítor Gabriel Saldanha Fernandes
-    - Vítor G. S. Fernandes
+  - Vítor Gabriel Saldanha Fernandes
+  - Vítor G. S. Fernandes
 group: alum
 ---
 
