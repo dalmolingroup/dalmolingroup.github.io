@@ -14,8 +14,9 @@
   date: '2024-04-25'
   link: https://doi.org/gtsgkf
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/michaelsen2024.jpg
 - id: doi:10.1089/omi.2024.0004
   title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
     Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
@@ -32,6 +33,7 @@
   orcid: 0000-0002-1688-6155
   plugin: sources.py
   file: sources.yaml
+  image: images/papers/rodrigues2024.jpg
 - id: doi:10.1093/molbev/msae019
   title: '<i>Bridge</i>: A New Algorithm for Rooting Orthologous Genes in Large-Scale
     Evolutionary Analyses'
@@ -48,8 +50,9 @@
   date: '2024-02-01'
   link: https://doi.org/gtgw4v
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/campos2024.jpeg
 - id: doi:10.1016/J.NEUROSCIENCE.2024.09.012
   title: Sex-specific gene expression differences in the prefrontal cortex of major
     depressive disorder individuals
@@ -66,8 +69,9 @@
   date: '2024-11-01'
   link: https://doi.org/g6jvfc
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/desouza2024.jpg
 - id: doi:10.1089/omi.2023.0232
   title: 'Bridging the Gaps in Meta-Omic Analysis: Workflows and Reproducibility'
   authors:
@@ -94,8 +98,9 @@
   date: '2023-08-29'
   link: https://doi.org/gs8q2n
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/ferraz2023.jpg
 - id: doi:10.3390/microorganisms11071668
   title: Metagenomic Analyses Reveal the Influence of Depth Layers on Marine Biodiversity
     on Tropical and Subtropical Regions
@@ -111,8 +116,9 @@
   date: '2023-06-27'
   link: https://doi.org/gs8q2p
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/metagenomics_2.jpg
 - id: doi:10.1101/2022.10.18.512769
   title: Metagenomic analyses reveal the influence of depth layers on marine biodiversity
     in tropical and subtropical regions
@@ -126,8 +132,9 @@
   date: '2022-10-18'
   link: https://doi.org/gs8q2q
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/metagenomics_2.jpg
 - id: doi:10.1101/2022.07.24.501316
   title: A survey of transcriptomic datasets identifies ABA-responsive factors as
     regulators of photomorphogenesis in<i>Arabidopsis</i>
@@ -158,8 +165,9 @@
   date: '2022-03-07'
   link: https://doi.org/gs8q2s
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/morais2022.jpg
 - id: doi:10.1093/bioinformatics/btab819
   title: '<i>TreeAndLeaf</i>: an R/Bioconductor package for graphs and trees with
     focus on the leaves'
@@ -178,8 +186,9 @@
   date: '2021-12-02'
   link: https://doi.org/gs8q2t
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/cardoso2022.jpeg
 - id: doi:10.1016/j.isci.2021.103610
   title: The evolution of knowledge on genes associated with human diseases
   authors:
@@ -250,8 +259,9 @@
   date: '2021-09-23'
   link: https://doi.org/gs8q2w
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/oliveira2021.png
 - id: doi:10.1007/s10142-021-00794-9
   title: Ancestry analysis indicates two different sets of essential genes in eukaryotic
     model species
@@ -266,8 +276,9 @@
   date: '2021-07-01'
   link: https://doi.org/gs8q2x
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/evo3.jpg
 - id: doi:10.3390/cancers13081860
   title: Reverse Engineering of Ewing Sarcoma Regulatory Network Uncovers PAX7 and
     RUNX3 as Master Regulators Associated with Good Prognosis
@@ -285,8 +296,9 @@
   date: '2021-04-13'
   link: https://doi.org/gs8q2z
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/networks.png
 - id: doi:10.1093/molbev/msaa252
   title: Ionotropic Receptors as a Driving Force behind Human Synapse Establishment
   authors:
@@ -298,8 +310,9 @@
   date: '2020-09-28'
   link: https://doi.org/gs8q22
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/evo2.jpeg
 - id: doi:10.1016/j.biopha.2020.110277
   title: Anti-inflammatory and antixidant properties of blend formulated with compounds
     of Malpighia emarginata D.C (acerola) and Camellia sinensis L. (green tea) in
@@ -368,8 +381,9 @@
   date: '2019-10-31'
   link: https://doi.org/gs8q25
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/evo4.jpg
 - id: doi:10.3389/fgene.2019.00791
   title: Systems Biology-Based Analysis Indicates Global Transcriptional Impairment
     in Lead-Treated Human Neural Progenitor Cells
@@ -385,8 +399,9 @@
   date: '2019-09-10'
   link: https://doi.org/gs8q26
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/transcriptomics_1.jpg
 - id: doi:10.1093/bioinformatics/btz007
   title: "Transcriptogramer: an R/Bioconductor package for transcriptional analysis\
     \ based on protein\u2013protein interaction"
@@ -398,8 +413,9 @@
   date: '2019-01-08'
   link: https://doi.org/gs8q27
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/tools/transcriptogramer.png
 - id: doi:10.1080/10408444.2018.1429387
   title: Lead-interacting proteins and their implication in lead poisoning
   authors:
@@ -410,8 +426,9 @@
   date: '2018-02-12'
   link: https://doi.org/gfhwhw
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/desouza2018.jpg
 - id: doi:10.1089/jmf.2017.0130
   title: Sunlight Incidence, Vitamin D Deficiency, and Alzheimer's Disease
   authors:
@@ -422,8 +439,9 @@
   date: '2018-09-01'
   link: https://doi.org/gc6vwq
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/camara2018.jpg
 - id: doi:10.1093/mutage/gew068
   title: Analysis of genome instability biomarkers in children with non-syndromic
     orofacial clefts
@@ -615,8 +633,9 @@
   date: '2013-12-05'
   link: https://doi.org/gs8q3g
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/albanus2013.png
 - id: doi:10.2741/s352
   title: Transcriptomic analysis reveals pH-responsive antioxidant gene networks
   authors:
@@ -714,8 +733,9 @@
   date: '2008-10-02'
   link: https://doi.org/bcsh3p
   orcid: 0000-0002-1688-6155
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/evo5.jpeg
 - id: doi:10.1016/j.tiv.2008.04.001
   title: Retinoic acid induces apoptosis by a non-classical mechanism of ERK1/2 activation
   authors:
@@ -820,20 +840,18 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroscience.2024.09.012
-  title: Sex-specific gene expression differences in the prefrontal cortex of major
-    depressive disorder individuals
+- id: doi:10.1109/CIBCB58642.2024.10702116
+  title: 'EURYALE: A versatile Nextflow pipeline for taxonomic classification and
+    functional annotation of metagenomics data'
   authors:
-  - Iara D. de Souza
-  - "V\xEDtor G. S. Fernandes"
   - "Jo\xE3o Vitor F. Cavalcante"
-  - Ana Carolina M. F. Coelho
+  - Iara Dantas de Souza
   - Diego A. A. Morais
-  - Otavio Cabral-Marques
-  - Matheus A. B. Pasquali
   - Rodrigo J. S. Dalmolin
-  publisher: Neuroscience
-  date: '2024-11-01'
-  link: https://doi.org/g6jvfc
+  publisher: 2024 IEEE Conference on Computational Intelligence in Bioinformatics
+    and Computational Biology (CIBCB)
+  date: '2024-08-27'
+  link: https://doi.org/g8wjsn
+  image: images/papers/cavalcante2024.png
   plugin: sources.py
   file: sources.yaml
