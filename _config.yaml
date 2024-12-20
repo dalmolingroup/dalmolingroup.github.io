@@ -7,47 +7,48 @@ footer: images/banner.jpg
 
 # site social media and other links
 links:
-    email: rodrigo.dalmolin@imd.ufrn.br
-    orcid: 0000-0002-1688-6155
-    google-scholar: FgZd13AAAAAJ
-    github: dalmolingroup
-    youtube: "@dalmolingroup"
+  email: rodrigo.dalmolin@imd.ufrn.br
+  orcid: 0000-0002-1688-6155
+  google-scholar: FgZd13AAAAAJ
+  github: dalmolingroup
+  youtube: "@dalmolingroup"
 
 ### jekyll settings
 
 # front matter defaults
 defaults:
-    # all markdown files
-    - scope:
-          path: ""
-      values:
-          layout: default
-    # markdown files in /_members
-    - scope:
-          type: "members"
-      values:
-          layout: member
-    # markdown files in /_posts
-    - scope:
-          type: "lines"
-      values:
-          layout: post
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "lines"
+    values:
+      layout: post
 
 collections:
-    # generate page for each member
-    members:
-        output: true
-    # generate page for each research line
-    lines:
-        output: true
-
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each research line
+  lines:
+    output: true
+  news:
+    output: true
 # jekyll plugins
 plugins:
-    - jekyll-spaceship
-    - jekyll-sitemap
-    - jekyll-redirect-from
-    - jekyll-feed
-    - jekyll-last-modified-at
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
 
 # code block syntax highlighting
 highlighter: rouge
@@ -57,15 +58,15 @@ theme: null
 
 # sass settings
 sass:
-    sass_dir: _styles
+  sass_dir: _styles
 
 # force jekyll to include certain files/folders
 include:
-    - _styles
-    - _scripts
+  - _styles
+  - _scripts
 
 # force jekyll to exclude certain files/folders
 exclude:
-    - README.md
-    - LICENSE.md
-    - CITATION.cff
+  - README.md
+  - LICENSE.md
+  - CITATION.cff

@@ -84,7 +84,20 @@ We are a team of interdisciplinary researchers working in the various fields of 
 
 {% include section.html %}
 
+## Our research on the news
+
+{% include section.html %}
+
+{%
+  include list.html
+  data="news"
+  component="card"
+  style="small"
+%}
+
 ## Our lines of research
+
+{% include section.html %}
 
 {%
   include list.html
