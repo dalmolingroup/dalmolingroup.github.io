@@ -1,5 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/S41540-025-00488-Z
+  title: Dysregulated autoantibodies targeting AGTR1 are associated with the accumulation
+    of COVID-19 symptoms
+  authors:
+  - Dennyson Leandro M. Fonseca
+  - "Maj J\xE4pel"
+  - Michael Adu Gyamfi
+  - Igor Salerno Filgueiras
+  - Gabriela Crispim Baiochi
+  - Yuri Ostrinski
+  - Gilad Halpert
+  - Yael Bublil Lavi
+  - Elroy Vojdani
+  - Thayna Silva-Sousa
+  - "J\xFAlia Nakanishi Usuda"
+  - Juan Carlo Santos e Silva
+  - Paula P. Freire
+  - "Adriel Leal N\xF3bile"
+  - Anny Silva Adri
+  - "Pedro Mar\xE7al Barcelos"
+  - "Yohan Lucas Gon\xE7alves Corr\xEAa"
+  - Fernando Yuri Nery do Vale
+  - "Let\xEDcia Oliveira Lopes"
+  - Solveig Lea Schmidt
+  - Xiaoqing Wang
+  - Carl Vahldieck
+  - Benedikt Fels
+  - Lena F. Schimke
+  - Gustavo Cabral-Miranda
+  - Mario Hiroyuki Hirata
+  - Taj Ali AKhan
+  - Yen-Rei A. Yu
+  - Rodrigo JS Dalmolin
+  - Howard Amital
+  - Aristo Vojdani
+  - Haroldo Dutra Dias
+  - Helder Nakaya
+  - Hans D. Ochs
+  - Jonathan I. Silverberg
+  - Jason Zimmerman
+  - Israel Zyskind
+  - Avi Z. Rosenberg
+  - Kai Schulze-Forster
+  - Harald Heidecke
+  - Rusan Catar
+  - Guido Moll
+  - Alexander Hackel
+  - Kristina Kusche-Vihrog
+  - Yehuda Shoenfeld
+  - Gabriela Riemekasten
+  - Reza Akbarzadeh
+  - Alexandre H. C. Marques
+  - Otavio Cabral-Marques
+  publisher: npj Systems Biology and Applications
+  date: '2025-01-13'
+  link: https://doi.org/g84h7k
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JHAZMAT.2024.136866
+  title: Unlocking the transcriptional profiles of an oily waste-degrading bacterial
+    consortium
+  authors:
+  - "Rita de C\xE1ssia Barreto Silva-Portela"
+  - Carolina Fonseca Minnicelli
+  - "J\xFAlia Firme Freitas"
+  - Marbella Maria Bernardes Fonseca
+  - Douglas Felipe de Lima Silva
+  - Kamila Karla Silva-Barbalho
+  - "Raul Maia Falc\xE3o"
+  - Thiago Bruce
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Lucymara Fassarella Agnez-Lima
+  publisher: Journal of Hazardous Materials
+  date: '2025-03-01'
+  link: https://doi.org/g8xrqn
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s12031-024-02203-9
   title: A Prognostic Methylation-Driven Two-Gene Signature in Medulloblastoma
   authors:
@@ -53,6 +133,92 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/campos2024.jpeg
+- id: doi:10.1101/2024.04.05.24305287
+  title: Integrative Systems Immunology Analysis Reveals Elevated Anti-AGTR1 Levels
+    with Accumulating COVID-19 Symptoms
+  authors:
+  - Dennyson Leandro M Fonseca
+  - "Maj J\xE4pel"
+  - Igor Salerno Filgueiras
+  - Gabriela Crispim Baiochi
+  - Yuri Ostrinski
+  - Gilad Halpert
+  - Yael Bublil Lavi
+  - Elroy Vojdani
+  - Juan Carlo Santos e Silva
+  - "J\xFAlia Nakanishi Usuda"
+  - Paula P. Freire
+  - "Adriel Leal N\xF3bile"
+  - Anny Silva Adri
+  - "Pedro Barcelos Mar\xE7al"
+  - "Yohan Lucas Gon\xE7alves Corr\xEAa"
+  - Fernando Yuri Nery do Vale
+  - "Let\xEDcia Oliveira Lopes"
+  - Solveig Lea Schmidt
+  - Xiaoqing Wang
+  - Carl Vahldieck
+  - Benedikt Fels
+  - Lena F. Schimke
+  - Mario Hiroyuki Hirata
+  - Gustavo Cabral- Miranda
+  - Taj Ali AKhan
+  - Rusan Catar
+  - Guido Moll
+  - Thayna Silva-Sousa
+  - Yen-Rei A Yu
+  - Rodrigo JS Dalmolin
+  - Howard Amital
+  - Aristo Vojdani
+  - Helder Nakaya
+  - Hans D. Ochs
+  - Jonathan I. Silverberg
+  - Jason Zimmerman
+  - Israel Zyskind
+  - Avi Z Rosenberg
+  - Kai Schulze-Forster
+  - Harald Heidecke
+  - Alexander Hackel
+  - Kristina Kusche-Vihrog
+  - Yehuda Shoenfeld
+  - Gabriela Riemekasten
+  - Reza Akbarzadeh
+  - Alexandre H.C Marques
+  - Otavio Cabral-Marques
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-09'
+  link: https://doi.org/g84h7m
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.09.25.614771
+  title: Integrative systems neuroimmunology reveals leukocyte-expressing PAX6 as
+    a critical predictor of major depressive disorder
+  authors:
+  - Haroldo Dutra Dias
+  - Anny Silva Adri
+  - "Adriel Leal N\xF3bile"
+  - Marilia Garcia de Oliveira
+  - Elizabeth N. Chung
+  - Ian Antunes Ferreira Bahia
+  - Dennyson Leandro M Fonseca
+  - Lena F. Schimke
+  - Igor Salerno Filgueiras
+  - "Pedro Mar\xE7al"
+  - Fernando Yuri Nery do Vale
+  - Rodrigo J S Dalmolin
+  - Gustavo Cabral-Miranda
+  - Helder Nakaya
+  - Renato Bortoloti
+  - Clement Hamani
+  - Michael A. Wheeler
+  - Rafael Machado Rezende
+  - Otavio Cabral-Marques
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-26'
+  link: https://doi.org/g84h7n
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/J.NEUROSCIENCE.2024.09.012
   title: Sex-specific gene expression differences in the prefrontal cortex of major
     depressive disorder individuals
@@ -72,6 +238,15 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/desouza2024.jpg
+- id: wosuid:PPRN:100706260
+  title: 'easylayout: an R package for interactive force-directed layouts within RStudio'
+  authors: []
+  publisher: ArXiv
+  date: '2025-02-06'
+  link: https://publons.com/wos-op/publon/70902597/
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1089/omi.2023.0232
   title: 'Bridging the Gaps in Meta-Omic Analysis: Workflows and Reproducibility'
   authors:
