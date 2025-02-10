@@ -1030,23 +1030,3 @@
   image: images/papers/cavalcante2024.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.jhazmat.2024.136866
-  title: Unlocking the transcriptional profiles of an oily waste-degrading bacterial
-    consortium
-  authors:
-  - "Rita de C\xE1ssia Barreto Silva-Portela"
-  - Carolina Fonseca Minnicelli
-  - "J\xFAlia Firme Freitas"
-  - Marbella Maria Bernardes Fonseca
-  - Douglas Felipe de Lima Silva
-  - Kamila Karla Silva-Barbalho
-  - "Raul Maia Falc\xE3o"
-  - Thiago Bruce
-  - "Jo\xE3o Vitor Ferreira Cavalcante"
-  - Rodrigo Juliani Siqueira Dalmolin
-  - Lucymara Fassarella Agnez-Lima
-  publisher: Journal of Hazardous Materials
-  date: '2025-03-01'
-  link: https://doi.org/g8xrqn
-  plugin: sources.py
-  file: sources.yaml

@@ -1,8 +1,8 @@
 ---
 title: Teaching
 nav:
-    order: 3
-    tooltip: Teaching materials
+  order: 3
+  tooltip: Teaching materials
 ---
 
 # {% include icon.html icon="fa-solid fa-university" %}Teaching
@@ -17,6 +17,15 @@ The Dalmolin Group routinely organizes courses in Bioinformatics as part of BioM
   link="teaching/rnaseq_curso.html"
   title="Análise de dados de RNA-Seq e aplicações em Biologia de Sistemas"
   subtitle="Introdução ao R, Sanidade de Dados, Expressão Diferencial e Análises funcionais"
+  style="large"
+%}
+
+{%
+  include card.html
+  image="images/teaching/cursor.png"
+  link="https://dalmolingroup.github.io/r-course-dalmolin/rmarkdown/cursoR.html"
+  title="Introdução ao R para Bioinformática"
+  subtitle="Introdução ao R, Objetos, Funções, Estruturas de Controle e Pacotes"
   style="large"
 %}
 
