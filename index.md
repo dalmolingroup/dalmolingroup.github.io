@@ -5,7 +5,7 @@
 
 The Dalmolin Systems Biology Group advances biomedical knowledge through Bioinformatics and Systems Biology. Our mission is to unravel the intricate complexities of biological systems through innovative approaches and advanced methodologies. Committed to excellence, our team is dedicated to addressing a diverse array of biological challenges using the powerful lens of Systems Biology. Our research group is led by professor Rodrigo Dalmolin, Ph.D., and it is associated with the Graduate Program in Bioinformatics from the Federal University of Rio Grande do Norte (UFRN).
 
-{% include figure.html image="images/group_foto.jpg" width="80%" %}
+{% include figure.html image="images/group_photo_3.png" width="80%" %}
 
 {% include section.html %}
 
