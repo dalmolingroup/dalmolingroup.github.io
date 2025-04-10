@@ -36,7 +36,7 @@
 
 - title: easylayout
   subtitle: Interactive force-directed graph layouts within RStudio
-  image: images/tools/eaylayout.png
+  image: images/tools/easylayout.png
   link: https://dalmolingroup.github.io/easylayout/
   description: easylayout is an R package that leverages interactive force simulations within the IDE itself (e.g., RStudio, VSCode).
   tags:
