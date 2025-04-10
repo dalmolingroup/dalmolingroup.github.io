@@ -34,7 +34,7 @@
       - orthology
       - evolution
 
-  - title: easylayout
+- title: easylayout
   subtitle: Interactive force-directed graph layouts within RStudio
   image: images/tools/eaylayout.png
   link: https://dalmolingroup.github.io/easylayout/
