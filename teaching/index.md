@@ -60,7 +60,7 @@ The Dalmolin Group routinely organizes courses in Bioinformatics as part of BioM
   include card.html
   image="images/teaching/intro_r.jpg"
   link="https://dalmolingroup.github.io/introductionR-course/"
-  title="Introdução à Biologia de Sistemas"
+  title="Introdução ao R"
   subtitle="Material para a disciplina DBQ0052 da UFRN."
   style="small"
 %}
