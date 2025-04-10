@@ -31,9 +31,27 @@ The Dalmolin Group routinely organizes courses in Bioinformatics as part of BioM
 
 {%
   include card.html
+  image="images/papers/cavalcante2024.png"
+  link="https://dalmolingroup.github.io/metagenome-course/"
+  title="Análise de dados de Metagenômica"
+  subtitle="Controle de qualidade, pré-processamento, Montagem, Classificação Taxonômica e Anotação Funcional"
+  style="large"
+%}
+
+{%
+  include card.html
+  image="images/teaching/intro_bio_sistemas.jpg"
+  link="https://dalmolingroup.github.io/systemsbiology-course/"
+  title="Introdução à Biologia de Sistemas"
+  subtitle="Material para a disciplina DBQ0044 da UFRN."
+  style="large"
+%}
+
+{%
+  include card.html
   image="images/teaching/intro_bio_sistemas.jpg"
   link="https://www.youtube.com/playlist?list=PLb1k7FiIfRvuQRGXqUIR2Ku1AWNmSre9y"
-  title="Introdução à Biologia de Sistemas"
+  title="Introdução à Biologia de Sistemas (Vídeo-aulas)"
   subtitle="Aulas ministradas para a disciplina DBQ0044 da UFRN."
   style="large"
 %}
@@ -41,8 +59,17 @@ The Dalmolin Group routinely organizes courses in Bioinformatics as part of BioM
 {%
   include card.html
   image="images/teaching/intro_r.jpg"
+  link="https://dalmolingroup.github.io/introductionR-course/"
+  title="Introdução à Biologia de Sistemas"
+  subtitle="Material para a disciplina DBQ0052 da UFRN."
+  style="large"
+%}
+
+{%
+  include card.html
+  image="images/teaching/intro_r.jpg"
   link="https://www.youtube.com/playlist?list=PLb1k7FiIfRvvyrLjLdCONuPPdYr8nPssx"
-  title="Introdução ao R"
+  title="Introdução ao R (Vídeo-aulas)"
   subtitle="Aulas ministradas para a disciplina DBQ0052 da UFRN."
   style="large"
 %}
