@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41598-025-00763-3
+  title: "Medulloblastoma\u2019s master regulators and their association with patients\u2019\
+    \ risk"
+  authors:
+  - Gustavo Lovatto Michaelsen
+  - Tayrone de Sousa Monteiro
+  - Danilo Oliveira Imparato
+  - "Jo\xE3o Vitor Almeida da Costa"
+  - Daniel Rocha Silva
+  - Iara Dantas de Souza
+  - "Marcel C\xE2mara da Ribeiro-Dantas"
+  - "Ot\xE1vio Cabral-Marques"
+  - Marialva Sinigaglia
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Scientific Reports
+  date: '2025-05-10'
+  link: https://doi.org/g9h5kh
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/S41540-025-00488-Z
   title: Dysregulated autoantibodies targeting AGTR1 are associated with the accumulation
     of COVID-19 symptoms
@@ -56,6 +76,35 @@
   publisher: npj Systems Biology and Applications
   date: '2025-01-13'
   link: https://doi.org/g84h7k
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41598-025-98542-7
+  title: Gene regulatory networks analysis for the discovery of prognostic genes in
+    gliomas
+  authors:
+  - "Pedro Mar\xE7al Barcelos"
+  - Igor Salerno Filgueiras
+  - "Adriel Leal N\xF3bile"
+  - "J\xFAlia Nakanishi Usuda"
+  - Anny Silva Adri
+  - "D\xE9bora Gomes de Alburquerque"
+  - "Yohan Lucas Gon\xE7alves C\xF4rrea"
+  - Fernando Yuri Nery do Vale
+  - Ian Antunes Ferreira Bahia
+  - Roseane Galdioli Nava
+  - Mariana Boroni
+  - Alexandre H. C. Marques
+  - Rodrigo Dalmolin
+  - Lena F. Schimke
+  - Gustavo Cabral-Miranda
+  - Helder I. Nakaya
+  - Haroldo Dutra Dias
+  - Dennyson Leandro M. Fonseca
+  - Otavio Cabral-Marques
+  publisher: Scientific Reports
+  date: '2025-04-23'
+  link: https://doi.org/g9h5kj
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
