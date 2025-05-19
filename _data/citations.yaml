@@ -20,6 +20,15 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/bioadv/vbaf110
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/g9kj2b
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/S41540-025-00488-Z
   title: Dysregulated autoantibodies targeting AGTR1 are associated with the accumulation
     of COVID-19 symptoms
