@@ -148,10 +148,16 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioadv/vbaf110
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Causeway: a pipeline for genome-wide effector gene screening with Mendelian
+    Randomization and colocalization'
+  authors:
+  - Julia A de Amorim
+  - "Jo\xE3o Vitor F Cavalcante"
+  - Diego Marques-Coelho
+  - Rodrigo J S Dalmolin
+  - Vasiliki Lagou
+  publisher: Bioinformatics Advances
+  date: '2024-12-26'
   link: https://doi.org/g9kj2b
   orcid: 0000-0002-1688-6155
   plugin: sources.py
