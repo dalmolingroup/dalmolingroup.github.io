@@ -20,6 +20,24 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1155/ijm/9919200
+  title: "P21 Ablation Unveils Strain\u2010Specific Transcriptional Reprogramming\
+    \ in <i>Trypanosoma cruzi</i> Amastigotes"
+  authors:
+  - Anna Clara Azevedo Silveira
+  - Iara Dantas de Souza
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - Thaise Lara Teixeira
+  - Cristina Mary Orikaza
+  - Rodrigo Juliani Siqueira Dalmolin
+  - "Jos\xE9 Franco da Silveira"
+  - Claudio Vieira da Silva
+  publisher: International Journal of Microbiology
+  date: '2025-01-01'
+  link: https://doi.org/g9sgz7
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/S41540-025-00488-Z
   title: Dysregulated autoantibodies targeting AGTR1 are associated with the accumulation
     of COVID-19 symptoms
