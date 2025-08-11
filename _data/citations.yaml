@@ -51,6 +51,76 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.autrev.2025.103855
+  title: 'Advancing research on regulatory autoantibodies targeting GPCRs: Insights
+    from the 5th international symposium'
+  authors:
+  - Otavio Cabral-Marques
+  - Lena F. Schimke
+  - Guido Moll
+  - Igor Salerno Filgueiras
+  - "Adriel Leal N\xF3bile"
+  - Anny Silva Adri
+  - Fernando Yuri Nery do Vale
+  - "J\xFAlia Nakanishi Usuda"
+  - "Yohan Lucas Gon\xE7alves Corr\xEAa"
+  - "D\xE9bora Albuquerque"
+  - Roseane Galdioli Nava
+  - Ronaldy Santana Santos
+  - Haroldo Dutra Dias
+  - "H\xE9lio Fernandes Silva"
+  - Pedro Batista Marconi
+  - Rusan Catar
+  - Michael Adu-Gyamfi
+  - Pinchao Wang
+  - Taj Ali Khan
+  - Alexander M. Hackel
+  - Anja Leheis
+  - "Anja St\xE4hle"
+  - "Antje M\xFCller"
+  - Carolin Schmidt
+  - Chiara Radunovic
+  - El-Baraa Adjailia
+  - Hanna Grasshoff
+  - Jens Y. Humrich
+  - Jonas Menz
+  - Konstantinos Fourlakis
+  - Maike Winziers
+  - "Maj J\xE4pel"
+  - Manuel Vincent Wegner
+  - Peter Lamprecht
+  - Relana Nieberding
+  - Reza Akbarzadeh
+  - Sabrina Arnold
+  - Sebastian Jendrek
+  - Sebastian Klapa
+  - Solveig Augustin
+  - Sophie Biedermann
+  - Susanne Schinke
+  - Patrick Scheerer
+  - Matthias Endres
+  - Kai Schulze-Forster
+  - Friedemann Paul
+  - Xinhua Yu
+  - Franziska Sotzny
+  - Thomas P. Sakmar
+  - Miroslaw Banasik
+  - Aiden Haghikia
+  - Markus H. Hoffmann
+  - Dmitry Veprintsev
+  - Torsten Witte
+  - Rodrigo J.S. Dalmolin
+  - Hans D. Ochs
+  - Harald Heidecke
+  - Carmen Scheibenbogen
+  - Yehuda Shoenfeld
+  - Gabriela Riemekasten
+  publisher: Autoimmunity Reviews
+  date: '2025-08-01'
+  link: https://doi.org/g9wpm5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/S41540-025-00488-Z
   title: Dysregulated autoantibodies targeting AGTR1 are associated with the accumulation
     of COVID-19 symptoms
@@ -192,23 +262,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/michaelsen2024.jpg
-- id: doi:10.1089/omi.2024.0004
-  title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
-    Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
-  authors:
-  - Karoline dos Santos Rodrigues
-  - Daniel Sturza Lucas Caetano
-  - "Jo\xE3o Vitor Cavalcante"
-  - Rodrigo Dalmolin
-  - "Patr\xEDcia K. Ziegelmann"
-  - Michael Andrades
-  publisher: 'OMICS: A Journal of Integrative Biology'
-  date: '2024-03-01'
-  link: https://doi.org/gtw5m3
-  orcid: 0000-0002-1688-6155
-  plugin: sources.py
-  file: sources.yaml
-  image: images/papers/rodrigues2024.jpg
 - id: doi:10.1093/molbev/msae019
   title: '<i>Bridge</i>: A New Algorithm for Rooting Orthologous Genes in Large-Scale
     Evolutionary Analyses'
@@ -228,6 +281,50 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/campos2024.jpeg
+- id: doi:10.1101/2024.11.13.623441
+  title: Dysregulation of synaptic-related genes of neuroimmune networks within peripheral
+    blood mononuclear cells in major depressive disorder
+  authors:
+  - Anny Silva Adri
+  - "Adriel Leal N\xF3bile"
+  - "D\xE9bora Gomes de Alburquerque"
+  - "Pedro Mar\xE7al Barcelos"
+  - Fernando Yuri Nery do Vale
+  - Ian Antunes F. Bahia
+  - Paula P. Freire
+  - Roseane Galdioli Nava
+  - Yohan Lucas G. Correa
+  - Gustavo Cabral-Miranda
+  - Rodrigo Dalmolin
+  - Lena F. Schimke
+  - Dennyson Leandro M. Fonseca
+  - Igor Salerno Filgueiras
+  - Helder I. Nakaya
+  - Rafael Machado Rezende
+  - Haroldo Dutra Dias
+  - Otavio Cabral-Marques
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-11-14'
+  link: https://doi.org/g9wpm6
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CIBCB58642.2024.10702116
+  title: 'EURYALE: A versatile Nextflow pipeline for taxonomic classification and
+    functional annotation of metagenomics data'
+  authors:
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Iara Dantas de Souza
+  - Diego A. A. Morais
+  - Rodrigo J. S. Dalmolin
+  publisher: 2024 IEEE Conference on Computational Intelligence in Bioinformatics
+    and Computational Biology (CIBCB)
+  date: '2024-08-27'
+  link: https://doi.org/g8wjsn
+  orcid: 0000-0002-1688-6155
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/cavalcante2024.png
 - id: doi:10.1101/2024.04.05.24305287
   title: Integrative Systems Immunology Analysis Reveals Elevated Anti-AGTR1 Levels
     with Accumulating COVID-19 Symptoms
@@ -333,12 +430,41 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/desouza2024.jpg
+- id: doi:10.1089/omi.2024.0004
+  title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
+    Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
+  authors:
+  - Karoline dos Santos Rodrigues
+  - Daniel Sturza Lucas Caetano
+  - "Jo\xE3o Vitor Cavalcante"
+  - Rodrigo Dalmolin
+  - "Patr\xEDcia K. Ziegelmann"
+  - Michael Andrades
+  publisher: 'OMICS: A Journal of Integrative Biology'
+  date: '2024-03-01'
+  link: https://doi.org/gtw5m3
+  orcid: 0000-0002-1688-6155
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/rodrigues2024.jpg
 - id: wosuid:PPRN:100706260
   title: 'easylayout: an R package for interactive force-directed layouts within RStudio'
   authors: []
   publisher: ArXiv
   date: '2025-02-06'
   link: https://publons.com/wos-op/publon/70902597/
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2409.18280
+  title: 'easylayout: an R package for interactive force-directed layouts within RStudio'
+  authors:
+  - Danilo Oliveira Imparato
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Rodrigo J. S. Dalmolin
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9wpm7
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
@@ -355,22 +481,6 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/cam4.6481
-  title: "Revealing metastatic castration\u2010resistant prostate cancer master regulator\
-    \ through <scp>lncRNAs</scp>\u2010centered regulatory network"
-  authors:
-  - Rafaella Sousa Ferraz
-  - "Jo\xE3o Vitor Ferreira Cavalcante"
-  - "Leandro Magalh\xE3es"
-  - "\xC2ndrea Ribeiro\u2010dos\u2010Santos"
-  - Rodrigo Juliani Siqueira Dalmolin
-  publisher: Cancer Medicine
-  date: '2023-08-29'
-  link: https://doi.org/gs8q2n
-  orcid: 0000-0002-1688-6155
-  plugin: sources.py
-  file: sources.yaml
-  image: images/papers/ferraz2023.jpg
 - id: doi:10.3390/microorganisms11071668
   title: Metagenomic Analyses Reveal the Influence of Depth Layers on Marine Biodiversity
     on Tropical and Subtropical Regions
@@ -389,36 +499,59 @@
   plugin: sources.py
   file: sources.yaml
   image: images/lines/metagenomics_2.jpg
-- id: doi:10.1101/2022.10.18.512769
-  title: Metagenomic analyses reveal the influence of depth layers on marine biodiversity
-    in tropical and subtropical regions
+- id: doi:10.1002/cam4.6481
+  title: "Revealing metastatic castration\u2010resistant prostate cancer master regulator\
+    \ through <scp>lncRNAs</scp>\u2010centered regulatory network"
   authors:
-  - Bianca C. F. Santiago
-  - Iara D. de Souza
-  - "Jo\xE3o Vitor F. Cavalcante"
-  - Diego A. A. Morais
-  - Rodrigo J. S. Dalmolin
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-10-18'
-  link: https://doi.org/gs8q2q
+  - Rafaella Sousa Ferraz
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - "Leandro Magalh\xE3es"
+  - "\xC2ndrea Ribeiro\u2010dos\u2010Santos"
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Cancer Medicine
+  date: '2023-08-29'
+  link: https://doi.org/gs8q2n
   orcid: 0000-0002-1688-6155
   plugin: sources.py
   file: sources.yaml
-  image: images/lines/metagenomics_2.jpg
-- id: doi:10.1101/2022.07.24.501316
-  title: A survey of transcriptomic datasets identifies ABA-responsive factors as
-    regulators of photomorphogenesis in<i>Arabidopsis</i>
+  image: images/papers/ferraz2023.jpg
+- id: doi:10.1038/s41514-023-00118-0
+  title: 'Severe COVID-19 patients exhibit elevated levels of autoantibodies targeting
+    cardiolipin and platelet glycoprotein with age: a systems biology approach'
   authors:
-  - "C\xE1ssia Fernanda Stafen"
-  - Iara Souza
-  - Ben Hur de Oliveira
-  - "Lu\xEDsa Abruzzi de Oliveira-Busatto"
-  - Rodrigo Juliani Siqueira Dalmolin
-  - "Oscar Lorenzo S\xE1nchez"
-  - Felipe dos Santos Maraschin
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-07-24'
-  link: https://doi.org/gs8q2r
+  - Dennyson Leandro M. Fonseca
+  - Igor Salerno Filgueiras
+  - Alexandre H. C. Marques
+  - Elroy Vojdani
+  - Gilad Halpert
+  - Yuri Ostrinski
+  - Gabriela Crispim Baiocchi
+  - "Desir\xE9e Rodrigues Pla\xE7a"
+  - Paula P. Freire
+  - Shahab Zaki Pour
+  - Guido Moll
+  - Rusan Catar
+  - Yael Bublil Lavi
+  - Jonathan I. Silverberg
+  - Jason Zimmerman
+  - Gustavo Cabral-Miranda
+  - Robson F. Carvalho
+  - Taj Ali Khan
+  - Harald Heidecke
+  - Rodrigo J. S. Dalmolin
+  - Andre Ducati Luchessi
+  - Hans D. Ochs
+  - Lena F. Schimke
+  - Howard Amital
+  - Gabriela Riemekasten
+  - Israel Zyskind
+  - Avi Z. Rosenberg
+  - Aristo Vojdani
+  - Yehuda Shoenfeld
+  - Otavio Cabral-Marques
+  publisher: npj Aging
+  date: '2023-08-24'
+  link: https://doi.org/gsqdrc
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
@@ -438,43 +571,39 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/morais2022.jpg
-- id: doi:10.1093/bioinformatics/btab819
-  title: '<i>TreeAndLeaf</i>: an R/Bioconductor package for graphs and trees with
-    focus on the leaves'
+- id: doi:10.1101/2022.07.24.501316
+  title: A survey of transcriptomic datasets identifies ABA-responsive factors as
+    regulators of photomorphogenesis in<i>Arabidopsis</i>
   authors:
-  - Milena A Cardoso
-  - Luis E A Rizzardi
-  - Leonardo W Kume
-  - Clarice S Groeneveld
-  - Sheyla Trefflich
-  - Diego A A Morais
-  - Rodrigo J S Dalmolin
-  - Bruce A J Ponder
-  - Kerstin B Meyer
-  - Mauro A A Castro
-  publisher: Bioinformatics
-  date: '2021-12-02'
-  link: https://doi.org/gs8q2t
-  orcid: 0000-0002-1688-6155
-  plugin: sources.py
-  file: sources.yaml
-  image: images/papers/cardoso2022.jpeg
-- id: doi:10.1016/j.isci.2021.103610
-  title: The evolution of knowledge on genes associated with human diseases
-  authors:
-  - "Thomaz L\xFCscher-Dias"
+  - "C\xE1ssia Fernanda Stafen"
+  - Iara Souza
+  - Ben Hur de Oliveira
+  - "Lu\xEDsa Abruzzi de Oliveira-Busatto"
   - Rodrigo Juliani Siqueira Dalmolin
-  - Paulo de Paiva Amaral
-  - Tiago Lubiana Alves
-  - Viviane Schuch
-  - "Gl\xF3ria Regina Franco"
-  - Helder I. Nakaya
-  publisher: iScience
-  date: '2022-01-01'
-  link: https://doi.org/grd5f5
+  - "Oscar Lorenzo S\xE1nchez"
+  - Felipe dos Santos Maraschin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-24'
+  link: https://doi.org/gs8q2r
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2022.10.18.512769
+  title: Metagenomic analyses reveal the influence of depth layers on marine biodiversity
+    in tropical and subtropical regions
+  authors:
+  - Bianca C. F. Santiago
+  - Iara D. de Souza
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Diego A. A. Morais
+  - Rodrigo J. S. Dalmolin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-18'
+  link: https://doi.org/gs8q2q
+  orcid: 0000-0002-1688-6155
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lines/metagenomics_2.jpg
 - id: doi:10.1101/2022.12.04.22282902
   title: SARS-CoV-2 infection induces the production of autoantibodies in severe COVID-19
     patients in an age-dependent manner
@@ -515,23 +644,43 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/biomedicines9101297
-  title: Reverse Engineering of the Pediatric Sepsis Regulatory Network and Identification
-    of Master Regulators
+- id: doi:10.1016/j.isci.2021.103610
+  title: The evolution of knowledge on genes associated with human diseases
   authors:
-  - Raffael Azevedo de Carvalho Oliveira
-  - Danilo Oliveira Imparato
-  - "V\xEDtor Gabriel Saldanha Fernandes"
-  - "Jo\xE3o Vitor Ferreira Cavalcante"
-  - "Ricardo D\u2019Oliveira Albanus"
+  - "Thomaz L\xFCscher-Dias"
   - Rodrigo Juliani Siqueira Dalmolin
-  publisher: Biomedicines
-  date: '2021-09-23'
-  link: https://doi.org/gs8q2w
+  - Paulo de Paiva Amaral
+  - Tiago Lubiana Alves
+  - Viviane Schuch
+  - "Gl\xF3ria Regina Franco"
+  - Helder I. Nakaya
+  publisher: iScience
+  date: '2022-01-01'
+  link: https://doi.org/grd5f5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btab819
+  title: '<i>TreeAndLeaf</i>: an R/Bioconductor package for graphs and trees with
+    focus on the leaves'
+  authors:
+  - Milena A Cardoso
+  - Luis E A Rizzardi
+  - Leonardo W Kume
+  - Clarice S Groeneveld
+  - Sheyla Trefflich
+  - Diego A A Morais
+  - Rodrigo J S Dalmolin
+  - Bruce A J Ponder
+  - Kerstin B Meyer
+  - Mauro A A Castro
+  publisher: Bioinformatics
+  date: '2021-12-02'
+  link: https://doi.org/gs8q2t
   orcid: 0000-0002-1688-6155
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/oliveira2021.png
+  image: images/papers/cardoso2022.jpeg
 - id: doi:10.1007/s10142-021-00794-9
   title: Ancestry analysis indicates two different sets of essential genes in eukaryotic
     model species
@@ -569,6 +718,39 @@
   plugin: sources.py
   file: sources.yaml
   image: images/lines/networks.png
+- id: doi:10.3390/biomedicines9101297
+  title: Reverse Engineering of the Pediatric Sepsis Regulatory Network and Identification
+    of Master Regulators
+  authors:
+  - Raffael Azevedo de Carvalho Oliveira
+  - Danilo Oliveira Imparato
+  - "V\xEDtor Gabriel Saldanha Fernandes"
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Biomedicines
+  date: '2021-09-23'
+  link: https://doi.org/gs8q2w
+  orcid: 0000-0002-1688-6155
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/oliveira2021.png
+- id: doi:10.1101/2021.06.16.21259049
+  title: The evolution of knowledge on genes associated with human diseases
+  authors:
+  - "Thomaz L\xFCscher-Dias"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Paulo de Paiva Amaral
+  - Tiago Lubiana Alves
+  - Viviane Schuch
+  - "Gl\xF3ria Regina Franco"
+  - Helder I Nakaya
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-21'
+  link: https://doi.org/g9wpm8
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/molbev/msaa252
   title: Ionotropic Receptors as a Driving Force behind Human Synapse Establishment
   authors:
@@ -618,6 +800,31 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-06-30'
   link: https://doi.org/gs8q23
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.29.317222
+  title: Characterization and analysis of the transcriptome in<i>Arapaima gigas</i>using
+    multi-tissue RNA-sequencing
+  authors:
+  - Danilo L. Martins
+  - Leonardo R. S. Campos
+  - "Andr\xE9 M. Ribeiro-dos-Santos"
+  - Ana Carolina M. F. Coelho
+  - Renata L. Dantas
+  - "Pit\xE1goras A. A. Sobrinho"
+  - Tetsu Sakamoto
+  - Amanda F. Vidal
+  - "Gl\xF3ria T. Vinasco-Sandoval"
+  - "Paulo P. Assump\xE7\xE3o"
+  - "\xC2ndrea K. C. R. Santos"
+  - Rodrigo J. S. Dalmolin
+  - Sandro J. de Souza
+  - Sidney Santos
+  - Jorge E. S. de Souza
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-01'
+  link: https://doi.org/g9wpm9
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
@@ -916,6 +1123,24 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
+- id: eid:2-s2.0-84891988213
+  title: Bioinformatics analysis of gene networks involved in genomic stability and
+    cancer
+  publisher: Bioinformatics Research New Developments
+  date: '2025-08-09'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84891988213&partnerID=MN8TOARS
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84891997892
+  title: Bioinformatics analysis of gene networks involved in genomic stability and
+    cancer
+  publisher: Cancer Biomarkers
+  date: '2025-08-09'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84891997892&partnerID=MN8TOARS
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/1745-6150-6-22
   title: Evolutionary plasticity determination by orthologous groups distribution
   authors:
@@ -1110,18 +1335,3 @@
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CIBCB58642.2024.10702116
-  title: 'EURYALE: A versatile Nextflow pipeline for taxonomic classification and
-    functional annotation of metagenomics data'
-  authors:
-  - "Jo\xE3o Vitor F. Cavalcante"
-  - Iara Dantas de Souza
-  - Diego A. A. Morais
-  - Rodrigo J. S. Dalmolin
-  publisher: 2024 IEEE Conference on Computational Intelligence in Bioinformatics
-    and Computational Biology (CIBCB)
-  date: '2024-08-27'
-  link: https://doi.org/g8wjsn
-  image: images/papers/cavalcante2024.png
-  plugin: sources.py
-  file: sources.yaml
