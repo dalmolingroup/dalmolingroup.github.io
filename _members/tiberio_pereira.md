@@ -1,6 +1,8 @@
 ---
 name: Tibério Azevedo Pereira
 image: images/team/tiberio_pereira.png
+description: Former PostDoc
+group: alum
 role: postdoc
 links:
     github: tiberioap
