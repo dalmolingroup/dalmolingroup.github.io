@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/biology14091233
+  title: "Changes in the Microbiota of the Scale Insect (Diaspis echinocacti, Bouch\xE9\
+    , 1833) in Opuntia stricta Cladodes: Taxonomic and Metagenomic Analysis as a Function\
+    \ of Infestation Levels"
+  authors:
+  - Mikaelly Batista da Silva
+  - Ana Beatriz Medeiros
+  - Antonia Isabelly Monteiro dos Anjos
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - Bianca Cristiane Ferreira Santiago
+  - "Sh\xEAnia Santos Monteiro"
+  - Antonio Carlos Vital
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Hugo M. Lisboa
+  - Matheus Augusto de Bittencourt Pasquali
+  publisher: Biology
+  date: '2025-09-10'
+  link: https://doi.org/g93n64
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.07.16.665195
   title: Evolutionary analysis reveals repeated diversification events in immune metabolic
     pathways
