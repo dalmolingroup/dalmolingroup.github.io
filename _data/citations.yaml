@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.10.20.683520
+  title: 'OrthoGuide: A database for rooting inference of orthologous genes'
+  authors:
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Gleison Medeiros de Azevedo
+  - Diego Marques-Coelho
+  - Danilo Oliveira Imparato
+  - Mauro Castro
+  - Rodrigo JS Dalmolin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-10-20'
+  link: https://doi.org/g97485
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/biology14091233
   title: "Changes in the Microbiota of the Scale Insect (Diaspis echinocacti, Bouch\xE9\
     , 1833) in Opuntia stricta Cladodes: Taxonomic and Metagenomic Analysis as a Function\
@@ -26,7 +41,7 @@
     pathways
   authors:
   - Bruno W Fernandes Silva
-  - Gleison M Azevedo
+  - Gleyson M Azevedo
   - Rodrigo JS Dalmolin
   publisher: Cold Spring Harbor Laboratory
   date: '2025-07-20'
