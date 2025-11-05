@@ -31,6 +31,15 @@ The Dalmolin Group routinely organizes courses in Bioinformatics as part of BioM
 
 {%
   include card.html
+  image="images/papers/campos2024.jpeg"
+  link="https://dalmolingroup.imd.ufrn.br/genebridge-course"
+  title="GeneBridge"
+  subtitle="Inferring the Evolutionary Rooting of Orthologous Genes"
+  style="small"
+%}
+
+{%
+  include card.html
   image="images/papers/cavalcante2024.png"
   link="https://dalmolingroup.github.io/metagenome-course/"
   title="Análise de dados de Metagenômica"
