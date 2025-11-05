@@ -22,11 +22,24 @@
       - bioconductor
       - expression
 
-- title: GenePlast
-  subtitle: Evolutionary and plasticity analysis of orthologous groups
+- title: OrthoGuide
+  subtitle: A database for rooting inference of orthologous genes
+  image: images/papers/cavalcante2025.jpg
+  link: https://dalmolingroup.imd.ufrn.br/orthoguide/
+  description: A database of pre-computed evolutionary rooting results for all orthologous groups in 8 model species
+  repo: dalmolingroup/orthoguide
+  tags:
+      - resource
+      - website
+      - database
+      - orthology
+      - evolution
+
+- title: GeneBridge
+  subtitle:  Rooting Orthologous Genes in Large-Scale Evolutionary Analysis
   image: images/tools/geneplast.png
-  link: https://bioconductor.org/packages/release/bioc/html/geneplast.html
-  description: Geneplast is designed for evolutionary and plasticity analysis based on orthologous groups distribution in a given species tree.
+  description: An algorithm designed to infer the evolutionary root of orthologous genes in large-scale evolutionary analyses
+  repo: sysbiolab/GeneBridge
   tags:
       - package
       - r
