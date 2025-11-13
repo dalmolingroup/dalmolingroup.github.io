@@ -31,6 +31,15 @@ The Dalmolin Group routinely organizes courses in Bioinformatics as part of BioM
 
 {%
   include card.html
+  image="images/teaching/net_intro.png"
+  link="https://github.com/dalmolingroup/intro_deep-learning"
+  title="Introduction to Deep Learning"
+  subtitle="Math underpinning neural networks, Deep Learning tasks and Generative Models"
+  style="small"
+%}
+
+{%
+  include card.html
   image="images/papers/campos2024.jpeg"
   link="https://dalmolingroup.imd.ufrn.br/genebridge-course"
   title="GeneBridge"
