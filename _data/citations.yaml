@@ -339,7 +339,7 @@
   - Rafael Machado Rezende
   - Haroldo Dutra Dias
   - Otavio Cabral-Marques
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-11-14'
   link: https://doi.org/g9wpm6
   orcid: 0000-0002-1688-6155
@@ -781,7 +781,7 @@
   - Viviane Schuch
   - "Gl\xF3ria Regina Franco"
   - Helder I Nakaya
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-21'
   link: https://doi.org/g9wpm8
   orcid: 0000-0002-1688-6155
@@ -840,8 +840,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.09.29.317222
-  title: Characterization and analysis of the transcriptome in<i>Arapaima gigas</i>using
-    multi-tissue RNA-sequencing
+  title: "Characterization and analysis of the transcriptome in\n                \
+    \  <i>Arapaima gigas</i>\n                  using multi-tissue RNA-sequencing"
   authors:
   - Danilo L. Martins
   - Leonardo R. S. Campos
@@ -858,7 +858,7 @@
   - Sandro J. de Souza
   - Sidney Santos
   - Jorge E. S. de Souza
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-10-01'
   link: https://doi.org/g9wpm9
   orcid: 0000-0002-1688-6155
