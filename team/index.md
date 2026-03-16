@@ -1,15 +1,32 @@
 ---
 title: Team
 nav:
-    order: 3
-    tooltip: About our team
+  order: 3
+  tooltip: About our team
 redirect_from:
-    - /lab-members
-    - /alums
-    - /mascots
-    - /staff
-    - /trainees
+  - /lab-members
+  - /alums
+  - /mascots
+  - /staff
+  - /trainees
 ---
+
+<style>
+  @media (min-width: 992px) {
+    .portrait {
+      width: 150px !important;
+      margin: 15px !important;
+    }
+    .portrait-role {
+      font-size: 0.85rem !important;
+      line-height: 1.2 !important;
+    }
+  }
+  .portrait-position {
+    color: #222c52ff !important;
+    font-weight: 500;
+  }
+</style>
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 

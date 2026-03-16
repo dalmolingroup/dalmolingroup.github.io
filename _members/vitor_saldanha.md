@@ -10,6 +10,7 @@ aliases:
   - Vítor Gabriel Saldanha Fernandes
   - Vítor G. S. Fernandes
 group: alum
+current_position: Medical student at UFRN
 ---
 
 Biomedical scientist and medical student at the Federal University of Rio Grande do Norte (UFRN),
