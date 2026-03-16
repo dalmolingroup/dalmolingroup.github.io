@@ -1,5 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.16.706231
+  title: Analysis of Transcriptograms in Epithelial-Mesenchymal Transition (EMT)
+  authors:
+  - "Odilon J\xFAlio dos Santos"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Rita M. C. de Almeida
+  publisher: openRxiv
+  date: '2026-02-18'
+  link: https://doi.org/hbsqm4
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioadv/vbaf313
+  title: 'CaRinDB: an integrated database of common cancer mutations and residue interaction
+    network parameters'
+  authors:
+  - Daniela Coelho Batista Guedes Pereira
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - Laise Florentino Cavalcanti
+  - "Raul Maia Falc\xE3o"
+  - Jorge Estefano Santana de Souza
+  - Rodrigo Juliani Siqueira Dalmolin
+  - "Tha\xEDs Gaudencio do R\xEAgo"
+  - Serghei Mangul
+  - "Gustavo Ant\xF4nio de Souza"
+  - Patrick Terrematte
+  - "Jo\xE3o Paulo Matos Santos Lima"
+  publisher: Bioinformatics Advances
+  date: '2026-01-01'
+  link: https://doi.org/hbsqm5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.20.683520
   title: 'OrthoGuide: A database for rooting inference of orthologous genes'
   authors:
@@ -9,7 +42,7 @@
   - Danilo Oliveira Imparato
   - Mauro Castro
   - Rodrigo JS Dalmolin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-10-20'
   link: https://doi.org/g97485
   orcid: 0000-0002-1688-6155
@@ -43,7 +76,7 @@
   - Bruno W Fernandes Silva
   - Gleyson M Azevedo
   - Rodrigo JS Dalmolin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-07-20'
   link: https://doi.org/g9twdp
   orcid: 0000-0002-1688-6155
@@ -71,7 +104,7 @@
   file: orcid.yaml
 - id: doi:10.1155/ijm/9919200
   title: "P21 Ablation Unveils Strain\u2010Specific Transcriptional Reprogramming\
-    \ in <i>Trypanosoma cruzi</i> Amastigotes"
+    \ in\n                    <i>Trypanosoma cruzi</i>\n                    Amastigotes"
   authors:
   - Anna Clara Azevedo Silveira
   - Iara Dantas de Souza
@@ -412,7 +445,7 @@
   - Reza Akbarzadeh
   - Alexandre H.C Marques
   - Otavio Cabral-Marques
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-04-09'
   link: https://doi.org/g84h7m
   orcid: 0000-0002-1688-6155
@@ -441,7 +474,7 @@
   - Michael A. Wheeler
   - Rafael Machado Rezende
   - Otavio Cabral-Marques
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-09-26'
   link: https://doi.org/g84h7n
   orcid: 0000-0002-1688-6155
@@ -608,8 +641,8 @@
   file: sources.yaml
   image: images/papers/morais2022.jpg
 - id: doi:10.1101/2022.07.24.501316
-  title: A survey of transcriptomic datasets identifies ABA-responsive factors as
-    regulators of photomorphogenesis in<i>Arabidopsis</i>
+  title: "A survey of transcriptomic datasets identifies ABA-responsive factors as\
+    \ regulators of photomorphogenesis in\n                  <i>Arabidopsis</i>"
   authors:
   - "C\xE1ssia Fernanda Stafen"
   - Iara Souza
@@ -618,7 +651,7 @@
   - Rodrigo Juliani Siqueira Dalmolin
   - "Oscar Lorenzo S\xE1nchez"
   - Felipe dos Santos Maraschin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-07-24'
   link: https://doi.org/gs8q2r
   orcid: 0000-0002-1688-6155
@@ -633,7 +666,7 @@
   - "Jo\xE3o Vitor F. Cavalcante"
   - Diego A. A. Morais
   - Rodrigo J. S. Dalmolin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-18'
   link: https://doi.org/gs8q2q
   orcid: 0000-0002-1688-6155
@@ -674,7 +707,7 @@
   - Aristo Vojdani
   - Yehuda Shoenfeld
   - Otavio Cabral-Marques
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-05'
   link: https://doi.org/gs8q2v
   orcid: 0000-0002-1688-6155
@@ -833,7 +866,7 @@
   - Diego A. A. Morais
   - Rodrigo J. S. Dalmolin
   - "Jo\xE3o Paulo M. S. Lima"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-06-30'
   link: https://doi.org/gs8q23
   orcid: 0000-0002-1688-6155
@@ -1028,8 +1061,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/jmf.2016.0047
-  title: <i>Turnera subulata</i>Anti-Inflammatory Properties in Lipopolysaccharide-Stimulated
-    RAW 264.7 Macrophages
+  title: "<i>Turnera subulata</i>\n                    Anti-Inflammatory Properties\
+    \ in Lipopolysaccharide-Stimulated RAW 264.7 Macrophages"
   authors:
   - "Nat\xE1lia Cabral Souza"
   - Juliana Medeiros de Oliveira
@@ -1085,16 +1118,17 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c3mb70590k
-  title: Computational analyses reveal a prognostic impact of TULP3 as a transcriptional
-    master regulator in pancreatic ductal adenocarcinoma
+  title: "Computational analyses reveal a prognostic impact of\n                 \
+    \   <i>TULP3</i>\n                    as a transcriptional master regulator in\
+    \ pancreatic ductal adenocarcinoma"
   authors:
-  - I. T. S. Sartor
-  - "F. Zeid\xE1n-Chuli\xE1"
-  - R. D. Albanus
-  - R. J. S. Dalmolin
-  - J. C. F. Moreira
-  publisher: Mol. BioSyst.
-  date: '2014-01-01'
+  - I. T S Sartor
+  - "F Zeid\xE1n-Chuli\xE1"
+  - R D Albanus
+  - R. J S Dalmolin
+  - J. C F Moreira
+  publisher: Molecular BioSystems
+  date: '2014-02-03'
   link: https://doi.org/gs8q3f
   orcid: 0000-0002-1688-6155
   plugin: orcid.py
