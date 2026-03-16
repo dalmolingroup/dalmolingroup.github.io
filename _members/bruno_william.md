@@ -1,7 +1,7 @@
 ---
 name: Bruno Fernandes
 image: images/team/bruno_william.jpg
-description: MSc in Bioinformatics
+description: MSc Student
 role: msc
 links:
   github: brunowilliam
