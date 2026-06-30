@@ -1,5 +1,49 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/gbe/evag119
+  title: 'OrthoGuide: A Database for Rooting Inference of Orthologous Genes'
+  authors:
+  - "Jo\xE3o V F Cavalcante"
+  - Gleison M de Azevedo
+  - Danilo O Imparato
+  - Diego Marques-Coelho
+  - Mauro A A Castro
+  - Rodrigo J S Dalmolin
+  publisher: Genome Biology and Evolution
+  date: '2026-06-01'
+  link: https://doi.org/hb85wb
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.55838/1980-3540.ge.2026.651
+  title: "Transtornos do Espectro Alco\xF3lico Fetal"
+  authors:
+  - "Rom\xE9rio de Oliveira Lima Filho"
+  - Ana Luchiari
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: "Gen\xE9tica na Escola"
+  date: '2026-04-01'
+  link: https://doi.org/hbzpcn
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/1678-4685-gmb-2025-0197
+  title: Reconstruction of the evolutionary landscape of biological processes involved
+    in the early stages of the metastatic cascade
+  authors:
+  - Gleison M. Azevedo
+  - "Epit\xE1cio Farias"
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Rafaella S. Ferraz
+  - Bruno William
+  - Diego M. Coelho
+  - Rodrigo J.S. Dalmolin
+  publisher: Genetics and Molecular Biology
+  date: '2026-03-01'
+  link: https://doi.org/hb85wc
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.02.16.706231
   title: Analysis of Transcriptograms in Epithelial-Mesenchymal Transition (EMT)
   authors:
